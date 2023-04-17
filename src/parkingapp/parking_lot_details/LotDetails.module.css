@@ -1,0 +1,10 @@
+.endBtns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vehicalDetails {
+    width: auto;
+    margin-inline: auto;
+}
